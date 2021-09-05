@@ -1,6 +1,6 @@
 # Go2SheeP_ssh
 
-Go2SheeP_ssh is a golang library which can help you to connect ssh server、establish tunnel proxy、use ssh as transport fastly and easily.
+Go2SheeP_ssh is a golang library which can help you to connect ssh server、establish tunnel proxy、use ssh as transport fast and easily.
 
 _Go2SheeP means that the library can make you go to sleep earlier._
 
